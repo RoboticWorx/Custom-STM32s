@@ -1,0 +1,8 @@
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pcd_ex.c:379:20:HAL_PCDEx_PMAConfig	3
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pcd_ex.c:421:19:HAL_PCDEx_ActivateBCD	1
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pcd_ex.c:442:19:HAL_PCDEx_DeActivateBCD	1
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pcd_ex.c:458:6:HAL_PCDEx_BCD_VBUSDetect	5
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pcd_ex.c:549:19:HAL_PCDEx_ActivateLPM	1
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pcd_ex.c:567:19:HAL_PCDEx_DeActivateLPM	1
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pcd_ex.c:586:13:HAL_PCDEx_LPM_Callback	1
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pcd_ex.c:603:13:HAL_PCDEx_BCD_Callback	1

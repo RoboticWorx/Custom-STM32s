@@ -1,0 +1,2 @@
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_util_i3c.c:80:13:I3C_CtrlTimingComputation	43
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_util_i3c.c:372:13:I3C_TgtTimingComputation	6

@@ -1,0 +1,15 @@
+../Core/Src/main.c:87:20:rgb_set	1
+../Core/Src/main.c:101:5:main	1
+../Core/Src/main.c:175:6:SystemClock_Config	4
+../Core/Src/main.c:234:13:MX_I2C2_Init	4
+../Core/Src/main.c:282:13:MX_I2C3_Init	4
+../Core/Src/main.c:330:13:MX_I3C1_Init	4
+../Core/Src/main.c:394:13:MX_ICACHE_Init	3
+../Core/Src/main.c:426:13:MX_SPI1_Init	2
+../Core/Src/main.c:474:13:MX_SPI2_Init	2
+../Core/Src/main.c:522:13:MX_UART4_Init	5
+../Core/Src/main.c:570:13:MX_USART1_UART_Init	5
+../Core/Src/main.c:618:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:666:13:MX_USB_PCD_Init	2
+../Core/Src/main.c:702:13:MX_GPIO_Init	1
+../Core/Src/main.c:738:6:Error_Handler	1
